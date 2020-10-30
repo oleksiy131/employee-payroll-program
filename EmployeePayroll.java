@@ -1,6 +1,3 @@
-//Oleksii Dukhovenko
-//Professor Ed Book
-//Assignment 1
 
 package employeepayroll;
 
