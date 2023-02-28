@@ -1,4 +1,4 @@
-# employee-payroll-program
+# Employee Payroll Program
 
 A Java program that calculates payroll for employees
 
